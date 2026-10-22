@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My YouTube</title>
+</head>
+<body>
+  <p>
+    Youtube link:
+    <a href="https://www.youtube.com/@benerlc" target="_blank" rel="noopener noreferrer">
+      https://www.youtube.com/@benerlc
+    </a>
+  </p>
+</body>
+</html>
